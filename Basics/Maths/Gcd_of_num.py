@@ -10,3 +10,6 @@ def find_gcd(a,b):
 n1 , n2 = 48 , 18
 gcd = find_gcd(n1,n2)
 print(f"The greatest common divisor of {n1} and {n2} is {gcd}")
+
+# Time Complexity: O(log(min(a, b)))
+# Space Complexity: O(1)

@@ -12,3 +12,6 @@ for i in range(n,0,-1):
 # 123
 # 12
 # 1
+
+# Time Complexity: O(n^2)
+# Space Complexity: O(1) auxiliary space (O(n^2) characters are printed)

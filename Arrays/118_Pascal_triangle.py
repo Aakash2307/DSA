@@ -25,5 +25,5 @@ class Solution(object):
 
         return ans 
 
-        
-
+# Time Complexity: O(numRows^2)
+# Space Complexity: O(numRows^2), for the returned triangle

@@ -9,3 +9,6 @@ for i in range(1, n + 1):
 #   ***
 #  *****
 # *******
+
+# Time Complexity: O(n^2)
+# Space Complexity: O(n) temporary space per row; O(n^2) characters are printed

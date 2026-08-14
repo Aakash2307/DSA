@@ -4,3 +4,6 @@ class Solution:
             return 0
 
         return N + self.NnumbersSum(N-1)
+
+# Time Complexity: O(N)
+# Space Complexity: O(N), due to the recursion call stack

@@ -19,3 +19,6 @@ for i in range(3 , int(n**0.5) + 1 , 2) : # we can skip even numbers greater tha
         print(f"{n} is not a prime number")
         break
 else :    print(f"{n} is a prime number")
+
+# Time Complexity: O(sqrt(n))
+# Space Complexity: O(1)

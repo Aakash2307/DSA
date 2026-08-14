@@ -19,3 +19,6 @@ solution = Solution()
 y = solution.count_frea([1,2,3,4,5,6,7])
 
 print(y)
+
+# Time Complexity: O(n)
+# Space Complexity: O(n), for the frequency dictionary and result list

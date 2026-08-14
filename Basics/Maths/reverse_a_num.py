@@ -18,3 +18,7 @@ while n > 0:
     n = n // 10
 
 print(rev)
+
+# Let d be the number of digits in n.
+# Time Complexity: O(d)
+# Space Complexity: O(d), due to the list and string used by the first approach
